@@ -5,7 +5,7 @@ menuOrder: 2
 ---
 Another hard-to-write CSS3 feature is a gradient. You have to repeat long gradient definition multiple times with different vendor prefixes. Also, if you want to cover all gradient-supported browsers, you have to use three different notations: old Webkit, currently supported (`linear-gradient(top, ...)`) and W3C-proposed (`linear-gradient(to bottom, ...)`).
 
-Usually, users prefere to use third-party GUIs to generate gradients definitions, but you can do the very same thing much faster right in your editor.
+Usually, users prefer to use third-party GUIs to generate gradients definitions, but you can do the very same thing much faster right in your editor.
 
 Emmet has a CSS3 Gradient Generator that can do all the hard work for you:
 
